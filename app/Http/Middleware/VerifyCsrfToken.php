@@ -14,9 +14,9 @@ class VerifyCsrfToken extends Middleware
     protected $except = [
       
             'payment/*',  // exclude all URLs wit payment/ prefix
-            'user/add', // exclude exact URL
+            'user/add', 
             'edit',
-            'authors/*', // exclude
+            'authors/*', 
     
     ];
 }
