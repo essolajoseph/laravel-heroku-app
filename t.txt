@@ -1,0 +1,5 @@
+mysql://ba3ba26cd14c80:e641933f@us-cdbr-east-06.cleardb.net/heroku_f87552e80d2990b?reconnect=true
+
+
+
+KEY:30855a1f-79f1-41f9-874e-316e4d034fc3
